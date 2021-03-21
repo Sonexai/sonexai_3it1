@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591319829833",
+    "project_id": "sonexai-3it1-2a4a7",
+    "storage_bucket": "sonexai-3it1-2a4a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591319829833:android:0feccec4ece4020210de98",
+        "android_client_info": {
+          "package_name": "com.example.sonexai_3it1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591319829833-922dp9kb50fo8epr03548b5tk5j56snn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRO1zDzpdXCvs2SMHOKpDjT_TbrmQ3yU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591319829833-922dp9kb50fo8epr03548b5tk5j56snn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
